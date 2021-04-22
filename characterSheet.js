@@ -1,19 +1,19 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
-  age: 21,
-  sex: 'male',
+  name: 'Talita',
+  player: 'Talita',
+  occupation: 'Parapsicologa',
+  age: 20,
+  sex: 'Feminino',
   birthplace: 'São paulo',
   residence: 'São paulo',
 
   life: {
-    current: 12,
-    max: 12,
+    current: 24,
+    max: 24,
   },
   sanity: {
-    current: 62,
-    max: 62,
+    current: 55,
+    max: 55,
   },
 
   weapons: [
@@ -43,11 +43,11 @@ const data = {
   attributes: [
     {
       type: 'Aparência',
-      amount: 10,
+      amount: 14,
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 12,
     },
     {
       type: 'Destreza',
@@ -55,7 +55,7 @@ const data = {
     },
     {
       type: 'Educação',
-      amount: 10,
+      amount: 15,
     },
     {
       type: 'Força',
@@ -67,19 +67,23 @@ const data = {
     },
     {
       type: 'Poder',
-      amount: 10,
+      amount: 11,
     },
     {
       type: 'Sorte',
-      amount: 10,
+      amount: 55,
     },
     {
-      type: 'Movimento',
-      amount: 10,
+      type: 'Tamanho',
+      amount: 13,
     },
     {
-      type: '?',
-      amount: 10,
+      type: 'Ideia',
+      amount: 50,
+    },
+     {
+      type: 'Conhecimento',
+      amount: 75,
     },
   ],
 }
