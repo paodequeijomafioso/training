@@ -395,5 +395,5 @@ function addAttribute(attribute, id) {
 }
 
 function deleteWeapon(id) {
-  $(`tr#${id}`).remove()
+  $(`trash{id}`).remove()
 }
