@@ -77,14 +77,6 @@ const data = {
       type: 'Tamanho',
       amount: 13,
     },
-    {
-      type: 'Ideia',
-      amount: 50,
-    },
-     {
-      type: 'Conhecimento',
-      amount: 75,
-    },
   ],
 }
 
